@@ -1,6 +1,6 @@
-# vvs_trabalho_final
+# vvs_grupo5
 
-Trabalho Final da matéria de Verificação e Validação
+Trabalho Final da Matéria de Verificação e Validação
 
 # Alunos
 
