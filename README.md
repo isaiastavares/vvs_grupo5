@@ -7,3 +7,5 @@ Trabalho Final da Matéria de Verificação e Validação
 - Isaias Tavares da Silva Neto
 - Alexandre de Matos Xavier
 - Antônio Umberto Souza Soares
+- Herbert Batista Nunes
+- Lucas Araújo da Serra Campos
