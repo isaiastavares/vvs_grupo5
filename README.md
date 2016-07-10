@@ -1,6 +1,6 @@
-# vvs_grupo5
+# Trabalho Final - VVS Grupo 5
 
-Trabalho Final da Matéria de Verificação e Validação
+Trabalho Final da Matéria de Verificação e Validação - UFG 2016/1
 
 # Alunos
 
